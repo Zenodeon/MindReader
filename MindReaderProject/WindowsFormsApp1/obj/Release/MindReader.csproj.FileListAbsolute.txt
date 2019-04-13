@@ -1,0 +1,10 @@
+C:\Users\aswin\Desktop\C#\Mind readd\Mind Reading\WindowsFormsApp1\WindowsFormsApp1\obj\Release\MindReader.csprojAssemblyReference.cache
+C:\Users\aswin\Desktop\C#\Mind readd\Mind Reading\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.MindReader.resources
+C:\Users\aswin\Desktop\C#\Mind readd\Mind Reading\WindowsFormsApp1\WindowsFormsApp1\obj\Release\MindReader.csproj.GenerateResource.cache
+C:\Users\aswin\Desktop\C#\Mind readd\Mind Reading\WindowsFormsApp1\WindowsFormsApp1\obj\Release\MindReader.csproj.CoreCompileInputs.cache
+C:\Users\aswin\Desktop\C#\Mind readd\Mind Reading\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Mind Reader.exe.config
+C:\Users\aswin\Desktop\C#\Mind readd\Mind Reading\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Mind Reader.exe
+C:\Users\aswin\Desktop\C#\Mind readd\Mind Reading\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Mind Reader.pdb
+C:\Users\aswin\Desktop\C#\Mind readd\Mind Reading\WindowsFormsApp1\WindowsFormsApp1\obj\Release\MindReader.Properties.Resources.resources
+C:\Users\aswin\Desktop\C#\Mind readd\Mind Reading\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Mind Reader.exe
+C:\Users\aswin\Desktop\C#\Mind readd\Mind Reading\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Mind Reader.pdb
