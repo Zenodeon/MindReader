@@ -9,8 +9,9 @@ Btw, This Is My Ever First Forms Ever Created With C#, So My Codes Might Be Some
     <summary>[Spoiler alert]It's Simpler Than You Think It Is.</summary>
     How This Program Work Is Simple, When A Number Is Reduced/Subtracted By It's Own Digits, It Always Comes To A Fixed Number Which Is Mutiple Of Nine, Hence No Matter What Number You Use, It Will Be Always Mutiple Of Nine. This Program Just Gives Random Symbols To All Numbers And The Same Symbol To The Number Which Are Mutiple Of 9. That's All Lol. ;)
   </details>
-</details><br>
-══════════════════════════════════════════════════════════════════════════════
+</details>
+
+═════════════════════════════════════════════════════════════════════════════
 Idea Came From This Guy Who Made This Program In C++ (i guess, and my version is in C#) To Show "How we can load controls at RunTime", Shoutout To Him.<br>
 
 His Name : Jim Jose <br>
